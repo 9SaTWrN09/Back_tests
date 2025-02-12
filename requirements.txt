@@ -65,4 +65,4 @@ typing_extensions==4.12.2
 tzdata==2024.1
 uvicorn==0.34.0
 wcwidth==0.2.13
-zope.interface==6.
+zope.interface==6.0
